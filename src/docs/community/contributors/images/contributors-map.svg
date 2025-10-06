@@ -207,48 +207,48 @@
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
 	.palette-color-7 { fill: #1D6A23 !important; }
-	.ye { fill: #328533; }
-	.gb { fill: #328533; }
-	.us { fill: #328533; }
-	.ca { fill: #328533; }
-	.fr { fill: #1D6A23; }
-	.im { fill: #D9E887; }
 	.ru { fill: #D9E887; }
-	.dk { fill: #D9E887; }
-	.ba { fill: #D9E887; }
-	.ro { fill: #D9E887; }
 	.vn { fill: #D9E887; }
-	.ee { fill: #D9E887; }
-	.am { fill: #D9E887; }
+	.ba { fill: #D9E887; }
 	.bg { fill: #D9E887; }
-	.sg { fill: #D9E887; }
-	.no { fill: #D9E887; }
 	.il { fill: #D9E887; }
+	.dk { fill: #D9E887; }
+	.im { fill: #D9E887; }
+	.ee { fill: #D9E887; }
 	.tr { fill: #D9E887; }
-	.rs { fill: #B3D778; }
-	.pl { fill: #B3D778; }
-	.jp { fill: #B3D778; }
-	.in { fill: #B3D778; }
+	.no { fill: #D9E887; }
+	.am { fill: #D9E887; }
+	.ro { fill: #D9E887; }
+	.sg { fill: #D9E887; }
 	.ch { fill: #B3D778; }
-	.it { fill: #B3D778; }
+	.pl { fill: #B3D778; }
 	.es { fill: #B3D778; }
-	.za { fill: #B3D778; }
 	.at { fill: #B3D778; }
+	.in { fill: #B3D778; }
+	.rs { fill: #B3D778; }
+	.jp { fill: #B3D778; }
 	.ua { fill: #B3D778; }
 	.pk { fill: #B3D778; }
-	.pt { fill: #8CC569; }
+	.za { fill: #B3D778; }
+	.it { fill: #B3D778; }
 	.de { fill: #8CC569; }
-	.tn { fill: #8CC569; }
+	.pt { fill: #8CC569; }
 	.hr { fill: #8CC569; }
 	.th { fill: #8CC569; }
+	.tn { fill: #8CC569; }
 	.be { fill: #6AB356; }
 	.fi { fill: #6AB356; }
-	.se { fill: #6AB356; }
 	.nl { fill: #6AB356; }
+	.se { fill: #6AB356; }
 	.hu { fill: #47A042; }
-	.au { fill: #47A042; }
 	.cn { fill: #47A042; }
+	.au { fill: #47A042; }
 	.nz { fill: #47A042; }
+	.us { fill: #328533; }
+	.ye { fill: #328533; }
+	.ca { fill: #328533; }
+	.gb { fill: #328533; }
+	.fr { fill: #1D6A23; }
 #legend7 { display: inline !important; }</style>
 
   <path
@@ -6528,7 +6528,7 @@
      class="landxx coastxx us"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="foo">United States of America (1567 contributions)
+       id="foo">United States of America (1566 contributions)
 </title>
     <path
        id="United_States_Alaska_mainland"
@@ -7676,7 +7676,7 @@
      id="fr"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title8670">France (2799 contributions)
+       id="title8670">France (2800 contributions)
 </title>
     <g
        id="frx"
@@ -9553,7 +9553,7 @@
            id="tspan23840"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">2.7k</tspan></text>
+           y="1542.405">2.8k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9575,7 +9575,7 @@
            id="tspan29686"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">2.7k</tspan></text>
+           y="1542.8457">2.8k</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9765,7 +9765,7 @@
            id="tspan101998"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">2.7k</tspan></text>
+           y="1542.405">2.8k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9788,7 +9788,7 @@
            id="tspan102006"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">2.7k</tspan></text>
+           y="1542.8457">2.8k</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9961,7 +9961,7 @@
            id="tspan104696"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">2.7k</tspan></text>
+           y="1542.405">2.8k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9984,7 +9984,7 @@
            id="tspan104704"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">2.7k</tspan></text>
+           y="1542.8457">2.8k</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10157,7 +10157,7 @@
            id="tspan106774"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">2.7k</tspan></text>
+           y="1542.8457">2.8k</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10308,7 +10308,7 @@
            id="tspan106828"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">2.7k</tspan></text>
+           y="1542.444">2.8k</tspan></text>
     </g>
   </g>
   <g
@@ -10460,7 +10460,7 @@
            id="tspan108992"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">2.7k</tspan></text>
+           y="1542.444">2.8k</tspan></text>
     </g>
   </g>
   <g
